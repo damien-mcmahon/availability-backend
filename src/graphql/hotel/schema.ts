@@ -18,10 +18,10 @@ export const typeDefs = `#graphql
     hotel: Hotel!
     description: String!
     pictures: [String]!
-    rates: [Rate]!
+    price: Price!
   }
 
-  type Rate {
+  type Price {
     id: ID!
     subTotal: Float!
     currency: String!

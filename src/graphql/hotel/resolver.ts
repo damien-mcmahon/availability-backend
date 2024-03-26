@@ -1,3 +1,4 @@
+import { getAvailability } from "../../lib/availability";
 import hotels from "../../fixtures/hotels.json";
 
 export const resolvers = {
@@ -7,8 +8,8 @@ export const resolvers = {
     },
   },
   Hotel: {
-    rooms: async (_: any, __: any, ___: any) => {
-      return [];
+    rooms: async (_: any, args: any, ___: any) => {
+      return getAvailability(args);
     },
   },
 };
