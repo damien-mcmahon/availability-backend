@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Hygge House Hotel",
+    "location": {
+      "id": "1bbfcffe-4f93-4135-b352-ae27c3020e01",
+      "name": "Copenhagen"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cancun Resort",
+    "location": {
+      "id": "f1b3b3b4-1b3b-4b3b-8b3b-3b3b3b3b3b3b",
+      "name": "Cancun"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Paradise Beach",
+    "location": {
+      "id": "9766aa5e-253e-47e9-b8f0-ed2afc06284f",
+      "name": "Maldives"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Coffee Haus Hotel",
+    "location": {
+      "id": "74e50d25-31f4-4231-9f73-91fdd4a0741c",
+      "name": "Vienna"
+    }
+  },
+  {
+    "id": 5,
+    "name": "The Ritz",
+    "location": {
+      "id": "219ae37b-17e8-4de1-b33a-867da62af547",
+      "name": "New York"
+    }
+  }
+]

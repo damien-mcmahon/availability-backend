@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0eab4490-9d04-4886-ae44-1a845ba34b40",
+    "name": "London"
+  },
+  {
+    "id": "c04c311b-0a48-4590-a1d1-14348c89f7a1",
+    "name": "Paris"
+  },
+  {
+    "id": "a8e53aa3-6c18-4fdf-965b-a0cdfd4d9611",
+    "name": "Dubai"
+  },
+  {
+    "id": "219ae37b-17e8-4de1-b33a-867da62af547",
+    "name": "New York"
+  },
+  {
+    "id": "1bbfcffe-4f93-4135-b352-ae27c3020e01",
+    "name": "Copenhagen"
+  },
+  {
+    "id": "74e50d25-31f4-4231-9f73-91fdd4a0741c",
+    "name": "Vienna"
+  },
+  {
+    "id": "9766aa5e-253e-47e9-b8f0-ed2afc06284f",
+    "name": "Maldives"
+  },
+  {
+    "id": "522678cd-bcc5-4f27-8ed2-688c46882937",
+    "name": "Berlin"
+  },
+  {
+    "id": "2d63b008-2944-4e10-83d7-89a9dc71dc03",
+    "name": "Porto"
+  }
+]
